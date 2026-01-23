@@ -46,8 +46,3 @@
   <li>Formação: <b>Engenharia de Software</b> na <b>UFG</b> — conclusão <b>2029/1</b></li>
 </ul>
 
-<hr/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
-</p>
