@@ -12,10 +12,6 @@
   <img src="https://skillicons.dev/icons?i=java,go,c,html,css,postgres,git,github,docker" />
 </p>
 
-<p align="center">
-  <img height="165" src="./profile/stats.svg" />
-  <img height="165" src="./profile/top-langs.svg" />
-</p>
 
 <hr/>
 
