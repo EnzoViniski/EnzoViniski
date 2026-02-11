@@ -34,7 +34,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EnzoViniski/EnzoViniski/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 <hr/>
 
 <h2 align="center">About Me</h2>
