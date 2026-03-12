@@ -28,12 +28,6 @@
     <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnzoViniski/EnzoViniski/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EnzoViniski/EnzoViniski/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EnzoViniski/EnzoViniski/output/pacman-contribution-graph.svg">
-</picture>
-
 <hr/>
 
 <h2 align="center">About Me</h2>
