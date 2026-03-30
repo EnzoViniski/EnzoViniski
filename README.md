@@ -22,7 +22,7 @@
 
 -  I'm a passionate **Software Engineering** student at **UFG**, expecting to graduate in **early 2029**.
 -  My journey at the **Sobrevidas** project started in **QA & Testing**, but I've recently **transitioned** into a **Back-End Developer** role. Now I'm focusing on building the core logic and APIs, applying the quality-focused mindset I gained from testing. 📈
--  I'm currently a heavy **Java** user, dive-deep into the **Spring ecosystem** 🍃, while still keeping my hands in **Go** and **PostgreSQL** 🐘. I love exploring efficient algorithms and system design.
+-  I'm currently a heavy **Java** user, dive-deep into the **Spring ecosystem** 🍃, while still keeping my hands in **C** and **PostgreSQL** 🐘. I love exploring efficient algorithms and system design.
 -  My focus is on writing clean, scalable code and building robust services. I'm always up for a good code review!
 
 ---
