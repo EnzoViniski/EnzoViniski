@@ -1,46 +1,42 @@
-<h1 align="center">Welcome to my projects!</h1>
+<h1 align="center">Hey, I'm Enzo! 👋</h1>
 
 <p align="center">
-  Back-End • QA / Testing • Software Engineering (UFG)
+  Software Engineering Student @ UFG | Back-End Developer with a QA past
 </p>
-
-<hr/>
-
-<h2 align="left">Techs & Stats</h2>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,go,c,html,css,postgres,git,github,docker" />
-</p>
-
-
-<hr/>
-
-<h2 align="center">Socials</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/enzo-viniski-2ab49a377/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:viniskienzo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/EnzoViniski" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
-<hr/>
-
-### 📊 GitHub Stats
-
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnzoViniski&theme=tokyonight)
 
 ---
 
-<h2 align="center">About Me</h2>
+## About Me
 
-<ul>
-  <li>Atuação atual: <b>QA</b> e <b>testes</b> no projeto <b>Sobrevidas</b></li>
-  <li>Stack / contato: <b>Java</b>, <b>Go</b>, <b>C</b>, <b>HTML</b>, <b>CSS</b></li>
-  <li>Banco de dados: noções de <b>PostgreSQL</b></li>
-  <li>Formação: <b>Engenharia de Software</b> na <b>UFG</b> — conclusão <b>2029/1</b></li>
-</ul>
+-  I'm a passionate **Software Engineering** student at **UFG**, expecting to graduate in **early 2029**.
+-  My journey at the **Sobrevidas** project started in **QA & Testing**, but I've recently **transitioned** into a **Back-End Developer** role. Now I'm focusing on building the core logic and APIs, applying the quality-focused mindset I gained from testing. 📈
+-  I'm currently a heavy **Java** user, dive-deep into the **Spring ecosystem** 🍃, while still keeping my hands in **Go** and **PostgreSQL** 🐘. I love exploring efficient algorithms and system design.
+-  My focus is on writing clean, scalable code and building robust services. I'm always up for a good code review!
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,go,c,html,css,postgres,git,github,docker" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnzoViniski&theme=tokyonight" />
+</div>
