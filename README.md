@@ -30,6 +30,12 @@
 </p>
 <hr/>
 
+### 📊 GitHub Stats
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnzoViniski&theme=tokyonight)
+
+---
+
 <h2 align="center">About Me</h2>
 
 <ul>
