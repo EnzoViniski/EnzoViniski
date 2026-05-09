@@ -1,11 +1,11 @@
-<h1 align="center">Hey, I'm Enzo! 👋</h1>
+<h1 align="center">Enzo Viniski de Castro</h1>
 
 <p align="center">
-  Software Engineering Student @ UFG | Back-End Developer with a QA past
+  Backend Developer · Java / Spring Boot · Software Engineering @ UFG
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/enzo-viniski-2ab49a377/" target="_blank">
+  <a href="https://www.linkedin.com/in/enzoviniskidev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:viniskienzo@gmail.com" target="_blank">
@@ -18,24 +18,40 @@
 
 ---
 
-## About Me
+## About
 
--  I'm a passionate **Software Engineering** student at **UFG**, expecting to graduate in **early 2029**.
--  My journey at the **Sobrevidas** project started in **QA & Testing**, but I've recently **transitioned** into a **Back-End Developer** role. Now I'm focusing on building the core logic and APIs, applying the quality-focused mindset I gained from testing. 📈
--  I'm currently a heavy **Java** user, dive-deep into the **Spring ecosystem** 🍃, while still keeping my hands in **C** and **PostgreSQL** 🐘. I love exploring efficient algorithms and system design.
--  My focus is on writing clean, scalable code and building robust services. I'm always up for a good code review!
+Software Engineering student at UFG (expected graduation: 2029), currently working as a Backend Developer on the **Sobrevidas** project.
+
+Started in QA — executed exploratory tests with Postman, validated API contracts via Swagger, and contributed to requirements documentation. Transitioned to backend after passing a technical PoC: full CRUD with Java 21, Spring Boot 3.2, Spring Data JPA, PostgreSQL, MapStruct, JUnit 5, Mockito, and Docker Compose.
+
+Current focus: REST APIs, clean architecture, static code analysis (SonarQube), and integration testing.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,go,c,html,css,postgres,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,go,c,postgres,docker,git,github" />
 </p>
+
+**Languages:** Java (intermediate), Go (basic/intermediate), C (basic/intermediate)  
+**Frameworks:** Spring Boot, Spring Data JPA, MapStruct, Lombok, JUnit 5, Mockito  
+**Tools:** Docker, Docker Compose, SonarQube, Maven, Postman, Swagger/OpenAPI 3, Git (Git Flow)  
+**Databases:** PostgreSQL, H2
 
 ---
 
-## 📊 GitHub Stats
+## Currently Working On
+
+**[Sobrevidas](https://github.com/EnzoViniski)** — Backend Developer *(since Mar/2026)*
+
+- Refactored global error handling: replaced raw `String` responses with structured JSON payloads via `@ControllerAdvice`
+- Fixing 4 critical security issues and 1 reliability issue flagged by SonarQube (OWASP practices)
+- Building REST endpoints following layered architecture: Controller → Service → Repository
+
+---
+
+## GitHub Stats
 
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnzoViniski&theme=tokyonight" />
