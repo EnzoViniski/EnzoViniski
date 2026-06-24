@@ -45,9 +45,13 @@ Current focus: REST APIs, clean architecture, static code analysis (SonarQube), 
 
 **[Sobrevidas](https://github.com/EnzoViniski)** — Backend Developer *(since Mar/2026)*
 
-- Refactored global error handling: replaced raw `String` responses with structured JSON payloads via `@ControllerAdvice`
-- Fixing 4 critical security issues and 1 reliability issue flagged by SonarQube (OWASP practices)
-- Building REST endpoints following layered architecture: Controller → Service → Repository
+- Built an **absentee-patients report**: paginated REST endpoint with role-based
+  access control, plus **CSV and PDF export** (Thymeleaf + Flying Saucer for HTML→PDF)
+- Refactored the data query to use **Spring Data Projections** instead of JPQL
+  constructor expressions, removing positional coupling (accepted in code review)
+- Covered the feature with unit and **integration tests using Testcontainers**
+  (PostgreSQL, Keycloak, RabbitMQ)
+- Earlier: refactored global error handling to structured JSON via `@ControllerAdvice`
 
 ---
 
